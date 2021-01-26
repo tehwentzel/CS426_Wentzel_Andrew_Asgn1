@@ -1450,8 +1450,12 @@ MonoBehaviour:
   speed: 25
   rotationSpeed: 90
   force: 700
+  chargeTimer: 0
+  groundHeight: 0
   cannon: {fileID: 1912647093}
   bullet: {fileID: 709568408883504576, guid: 1300f600dbef9274496030d21b6f20b0, type: 3}
+  baseMaterial: {fileID: 0}
+  chargedMaterial: {fileID: 0}
 --- !u!65 &1251969258
 BoxCollider:
   m_ObjectHideFlags: 0
