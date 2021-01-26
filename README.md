@@ -1,6 +1,7 @@
 # CS426_Wentzel_Andrew_Asgn1
 
-[Link to Video](https://youtu.be/SdQQ3lPhWls):
+[Link to Narrated Video](https://youtu.be/SdQQ3lPhWls)
+[Link to extra gameplay to make grading easier](https://youtu.be/Yf8uR38OHKQ)
 
 #### Overview
 This is a game where the player drives around a BB8 model drives around a small chicago-themed yard and gently tosses "pizza" bullets (with control/click) in order to feed the feral cats that live in my yard.   The player gets points when a pizza bullet hits an unused plate, which then turns into a pizza, and loses points when they hit a cat (the cats are skittish).  2 cat collisions restarts the game.
